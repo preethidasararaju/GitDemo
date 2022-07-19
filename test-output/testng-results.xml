@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-17T17:47:20 IST" name="Suite" finished-at="2022-07-17T17:47:20 IST" duration-ms="80">
+    <groups>
+    </groups>
+    <test started-at="2022-07-17T17:47:20 IST" name="Test" finished-at="2022-07-17T17:47:20 IST" duration-ms="80">
+      <class name="qaclickacademy.MavenJava.RESTAPITest">
+        <test-method signature="restAPITestMobileLogin()[pri:0, instance:qaclickacademy.MavenJava.RESTAPITest@759d26fb]" started-at="2022-07-17T17:47:20 IST" name="restAPITestMobileLogin" finished-at="2022-07-17T17:47:20 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAPITestMobileLogin -->
+        <test-method signature="restAPITestWebLogin()[pri:0, instance:qaclickacademy.MavenJava.RESTAPITest@759d26fb]" started-at="2022-07-17T17:47:20 IST" name="restAPITestWebLogin" finished-at="2022-07-17T17:47:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAPITestWebLogin -->
+      </class> <!-- qaclickacademy.MavenJava.RESTAPITest -->
+      <class name="qaclickacademy.MavenJava.SeleniumTest">
+        <test-method signature="seleniumTestMobileLogin()[pri:0, instance:qaclickacademy.MavenJava.SeleniumTest@156b88f5]" started-at="2022-07-17T17:47:20 IST" name="seleniumTestMobileLogin" finished-at="2022-07-17T17:47:20 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTestMobileLogin -->
+        <test-method signature="seleniumTestWebLogin()[pri:0, instance:qaclickacademy.MavenJava.SeleniumTest@156b88f5]" started-at="2022-07-17T17:47:20 IST" name="seleniumTestWebLogin" finished-at="2022-07-17T17:47:20 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTestWebLogin -->
+      </class> <!-- qaclickacademy.MavenJava.SeleniumTest -->
+      <class name="qaclickacademy.MavenJava.AppiumTest">
+        <test-method signature="appiumTestMobileLogin()[pri:0, instance:qaclickacademy.MavenJava.AppiumTest@3bf9ce3e]" started-at="2022-07-17T17:47:20 IST" name="appiumTestMobileLogin" finished-at="2022-07-17T17:47:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumTestMobileLogin -->
+        <test-method signature="appiumTestWebLogin()[pri:0, instance:qaclickacademy.MavenJava.AppiumTest@3bf9ce3e]" started-at="2022-07-17T17:47:20 IST" name="appiumTestWebLogin" finished-at="2022-07-17T17:47:20 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumTestWebLogin -->
+      </class> <!-- qaclickacademy.MavenJava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
